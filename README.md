@@ -12,4 +12,4 @@ Input will be separated to 4 stems: vocals, drums, bass and other. Stems will be
 
 
 ## Run in Google Colaboratory
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralAudioStemSeparation/blob/master/NeuralAudioStemSeparation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralAudioStemSeparation-colab/blob/master/NeuralAudioStemSeparation.ipynb)
