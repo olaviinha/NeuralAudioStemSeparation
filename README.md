@@ -8,7 +8,7 @@ This is an extension for [Deezer Spleeter](https://github.com/deezer/spleeter) t
 3.   Single YouTube URL
 4.   Multiple YouTube URLs separated by spaces. Audio track from each youtube video will be individually processed in one go.
 
-Input will be separated to 4 stems: vocals, drums, bass and other. Stems will be saved as WAV files to your Google Drive (`output_dir`).
+Input will be separated to 4 stems: vocals, drums, bass and other. Stems will be saved as WAV files to your Google Drive.
 
 
 ## Run in Google Colaboratory
