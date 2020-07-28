@@ -1,4 +1,4 @@
-# Neural Audio Stem Separation
+# Neural Audio Stem Separation (colab)
 
 This is an extension for [Deezer Spleeter](https://github.com/deezer/spleeter) to be run in Google Colaboratory, using Google Drive as data storage. See [Spleeter](https://github.com/deezer/spleeter) for details.
 
